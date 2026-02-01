@@ -15,6 +15,7 @@ function App() {
       {/* <input type="text" id="val"/>
       <button type="button" onClick={add}>Register</button> */}
       <Prac1/>
+      <h2>hello</h2>
     </>
   )
 }
