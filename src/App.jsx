@@ -16,6 +16,7 @@ function App() {
       <button type="button" onClick={add}>Register</button> */}
       <Prac1/>
       <h2>hello</h2>
+      <h3>im new</h3>
     </>
   )
 }
